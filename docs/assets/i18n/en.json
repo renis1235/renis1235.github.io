@@ -1,0 +1,13 @@
+{
+  "home": "Home",
+  "myServices": "My Services",
+  "aboutMe": "About me",
+  "myWork": "My Work",
+  "helloText": "Hi, I am ",
+
+  
+  "springTitle": "<strong>Spring Boot</strong> & Spring Framework",
+  "springSubtitle": "Back-End",
+  "springParagraph1": "Spring Framework is one of the most famous Java Frameworks for building Enterprise Solutions and <b>robust</b> Back-End Software. It makes building Web Applications straightforward and secure. My extensive experience with this Framework and its sub-tools allows me to build high-end and robust software.",
+  "springParagraph2": "The many tools and frameworks behind Spring help on many critical areas. <b>Spring Data JPA</b> makes the implementation of data access layers easy by reducing the effort to the amount that's actually required. <b>Spring Security</b> takes care of authorizing and authenticating part of the application. As I have touched each part of the above mentioned tools, taking care of each part of the application has become part of my everyday life. "
+}
