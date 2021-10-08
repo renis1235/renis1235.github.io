@@ -4,8 +4,26 @@
   "aboutMe": "About me",
   "myWork": "My Work",
   "helloText": "Hi, I am ",
+  "myEducation": "My Education",
 
-  
+  "subtitle1": "Software Developer",
+  "subtitle2": "Tech Enthusiast",
+  "subtitle3": "Boxer",
+
+  "whatIDo": "I...",
+  "service1Title": "...develop Software",
+  "service1Paragraph": "I am a Software Developer which has a passion for code and 5 years of University to back my knowledge up. In my 3 years of Bachelor and 2 years of Master I have implemented many different projects in many different technologies. I ended up loving <b>Java</b> and <b>Angular</b> to work on my professional projects.",
+  "service2Title": "...take care of your back-end",
+  "service2Paragraph": "With a love for clean and robust code, I am able to create efficient and optimized back-end solutions with some of the most renowned technologies of our time. I am very confident in adapting and changing the technology as required by the project. But still the first love, <b>Spring</b>, cannot be forgotten.",
+  "service3Title": "...make your front-end flourish",
+  "service3Paragraph": "Being a full-stack developer has sharpened my front-end skills too. I have written my first <b>JavaScript</b> line of code back in 2015 and switched over to <b>TypeScript</b> since I find it more structured. Angular is also one of the reasons for choosing typescript.",
+
+  "workNSkills": "My projects and skills",
+
+  "aboutMeTitle": "Who am I",
+  "aboutMeSubtitle": "a Swiss Army Knife in terms of software",
+  "aboutMeParagraph1": "I was born in 1998 and I first touched a computer at the time that I was 5. I got my own one at the age of 6 through my father. I had no Internet back then, so I did what a child does best, break it several times. There came a time where I could fix it faster than the repair shop near my house. So I decided to follow my passion for Technology even further right after finishing my high school. I majored on Computer Science and have been coding and playing around since 2014. ",
+
   "springTitle": "<strong>Spring Boot</strong> & Spring Framework",
   "springSubtitle": "Back-End",
   "springParagraph1": "Spring Framework is one of the most famous Java Frameworks for building Enterprise Solutions and <b>robust</b> Back-End Software. It makes building Web Applications straightforward and secure. My extensive experience with this Framework and its sub-tools allows me to build high-end and robust software.",

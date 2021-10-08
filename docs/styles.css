@@ -296,7 +296,8 @@ template {
   --clr-light: #fff;
   --clr-dark: #303030;
 
-  --clr-accent: #16e0bd;
+  /* --clr-accent: #16e0bd; */
+  --clr-accent: #DA0037;
 
   --fs-h1: 3rem;
   --fs-h2: 2.25rem;
@@ -320,7 +321,7 @@ template {
 /* GENERAL STYLES */
 html
 {
-  scroll-behavior: smooth;
+  scroll-behavior: smooth !important;
 }
 body
 {
