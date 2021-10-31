@@ -2,7 +2,7 @@
   "home": "Home",
   "myServices": "My Services",
   "aboutMe": "About me",
-  "myWork": "My Work",
+  "workNSkills": "My Work and Skills",
   "helloText": "Hi, I am ",
   "myEducation": "My Education",
 
@@ -18,14 +18,33 @@
   "service3Title": "...make your front-end flourish",
   "service3Paragraph": "Being a full-stack developer has sharpened my front-end skills too. I have written my first <b>JavaScript</b> line of code back in 2015 and switched over to <b>TypeScript</b> since I find it more structured. Angular is also one of the reasons for choosing typescript.",
 
-  "workNSkills": "My projects and skills",
-
   "aboutMeTitle": "Who am I",
   "aboutMeSubtitle": "a Swiss Army Knife in terms of software",
-  "aboutMeParagraph1": "I was born in 1998 and I first touched a computer at the time that I was 5. I got my own one at the age of 6 through my father. I had no Internet back then, so I did what a child does best, break it several times. There came a time where I could fix it faster than the repair shop near my house. So I decided to follow my passion for Technology even further right after finishing my high school. I majored on Computer Science and have been coding and playing around since 2014. ",
+  "aboutMeParagraph1": "I grew up loving technology, so it’s a privilege to be working and studying in my dream industry! My academic background includes a Computer Science Bachelors from the University of Tirana. I’m originally from Albania, a small country, but with amazing potential!. Soon after, I moved to Germany full-time and started my Master’s in the Frankfurt University of Applied Sciences for High Integrity Systems. And the rest is history...or is it?!",
+  "aboutMeSubtitle2": "What am I doing at the moment?",
+  "aboutMeParagraph2": "<ul> <li>Constantly sharpening my coding and keeping up with the Tech. </li> <li>Improving my German skills \uD83C\uDDE9\uD83C\uDDEA </li> <li>Working as a software developer at Kaera, an independent broker for industry and tourism in the European market.</li> <li>If there’s time to breathe, I occasionally work as a freelancer to build websites visitors actually enjoy browsing through!</li> </ul>",
 
-  "springTitle": "<strong>Spring Boot</strong> & Spring Framework",
-  "springSubtitle": "Back-End",
-  "springParagraph1": "Spring Framework is one of the most famous Java Frameworks for building Enterprise Solutions and <b>robust</b> Back-End Software. It makes building Web Applications straightforward and secure. My extensive experience with this Framework and its sub-tools allows me to build high-end and robust software.",
-  "springParagraph2": "The many tools and frameworks behind Spring help on many critical areas. <b>Spring Data JPA</b> makes the implementation of data access layers easy by reducing the effort to the amount that's actually required. <b>Spring Security</b> takes care of authorizing and authenticating part of the application. As I have touched each part of the above mentioned tools, taking care of each part of the application has become part of my everyday life. "
+
+  "timeline1": "I was born in Albania to two wonderful parents.",
+  "timeline2": "My father bought me the my first computer.",
+  "timeline3": "I broke my first computer... ",
+  "timeline4": "I started fixing Software and Hardware problems for half of the neighbourhood.",
+  "timeline5": "Won second place on Middle School nation-wide Computer Science Contest.",
+  "timeline6": "<h4>Finished Bachelor on Computer Science/Informatics</h4><p>Even though I could code before starting my studies, the three years of my Bachelor Studies deepened my knowledge on several areas through the use of projects and live coding exercises. During these studies I managed to gain knowledge on the following subjects: <ul><li>Algorithms and Performance Optimizations</li><li>Database management and Query Optimizations</li><li>Java programming (SE & EE)</li><li>Vanilla Web Development (HTML, CSS & JavaScript)</li><li>C & C++ programming</li><li>Vanilla PHP programming</li><li>Networking basics & packet tracking tools</li><li>Best coding practices and different metholodies (SCRUM, Agile dev., etc)</li></ul></p>",
+  "timeline7": "<h4>Move to Germany and begin my Studies on High Integrity Systems.</h4><p>Specialization on Safety Critical Systems, helped me to get a better insight on building high quality and fault tolerant software. Since building of these systems requires a lot more analysis than your normal web service, I gained a completely different mindset to structuring and validating/verifying high quality software. Also changing my environment from Albania to Germany helped broaden my horizon and get to know many different cultures. The strong points that I were able to obtain through my Master's are the following:</p><ul><li>Data Analysis</li><li>Data Mining</li><li>Modern Advanced IT Security methods</li><li>Real-Time systems management</li><li>Transaction Management - to completely conclude DBMS</li><li>Quantum Information Science & Programming with IBM's QisKit</li><li>Testing methods (applied in Python)</li><li>Human Machine Interaction (concluded with a project in Node.js and vanilla js)</li><li>Simulation Methods (Applied through MATLAB & SimuLink)</li><li>Internet of Things</li><li>Cloud Computing and the technologies behind it (AWS, Azure etc)</li><li>Homomorphic Encryption 10 Credit Project with Microsoft SEAL</li></ul><p>Currently working on my Master's Thesis on <strong>Authentication and Authorization of Microservices.</strong></p>",
+
+
+  "skillsNToolsTitle": "My skills and tools",
+  "skillsNToolsSubtitle": "A list of my most used Tools and Programming Languages/Frameworks.",
+
+
+  "workTitle": "My Projects",
+  "workSubtitle": "My pride and joy, some projects worthy of sharing.",
+
+
+  "conciergeTitle": "Concierge",
+  "conciergeSubtitle": "Estate Management Web-App",
+  "conciergeParagraph1": "One of the biggest Projects that I have developed. This project required full-stack skills where I coded front-end and back-end at the same time. There was a challenge to completely separate the concerns through microservices which was successfully surpassed.",
+  "conciergeParagraph2": "The Technology stack used: <strong>Spring Boot</strong> & <strong>Angular</strong>"
+
 }

@@ -1,69 +1,107 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["common"],{
 
-/***/ "Wcwo":
-/*!******************************************!*\
-  !*** ./src/app/services/work.service.ts ***!
-  \******************************************/
-/*! exports provided: WorkService */
+/***/ "cZUR":
+/*!***************************************************!*\
+  !*** ./src/app/services/project-skill.service.ts ***!
+  \***************************************************/
+/*! exports provided: ProjectSkillService */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "WorkService", function() { return WorkService; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ProjectSkillService", function() { return ProjectSkillService; });
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "fXoL");
 
 
-class WorkService {
+class ProjectSkillService {
     constructor() {
-        this.works = [
+        this.projects = [
             {
-                id: 'java',
-                mainImage: 'assets/img/works/java/java-1.jpg',
-                secondaryImage: 'assets/img/works/java/java-2.jpg',
-                title: 'javaTitle',
-                subtitle: 'javaSubtitle',
-                paragraph1Keyword: 'javaParagraph1',
-                paragraph2Keyword: 'javaParagraph2'
-            },
-            {
-                id: 'javafx',
-                mainImage: 'assets/img/works/javafx/javafx-1.png',
-                secondaryImage: 'assets/img/works/javafx/javafx-2.png',
-                title: 'javafxTitle',
-                subtitle: 'javafxSubtitle',
-                paragraph1Keyword: 'javafxParagraph1',
-                paragraph2Keyword: 'javafxParagraph2'
-            },
-            {
-                id: 'spring',
-                mainImage: 'assets/img/works/spring/spring-boot-1.png',
-                secondaryImage: 'assets/img/works/spring/spring-boot-2.png',
-                title: 'springTitle',
-                subtitle: 'springSubtitle',
-                paragraph1Keyword: 'springParagraph1',
-                paragraph2Keyword: 'springParagraph2'
-            },
-            {
-                id: 'angular',
-                mainImage: 'assets/img/works/angular/angular-1.png',
-                secondaryImage: 'assets/img/works/angular/angular-2.png',
-                title: 'javaTitle',
-                subtitle: 'javaSubtitle',
-                paragraph1Keyword: 'javaParagraph1',
-                paragraph2Keyword: 'javaParagraph2'
+                id: 'concierge',
+                mainImage: 'assets/img/projects/conc-1.png',
+                secondaryImage: 'assets/img/projects/conc-2.png',
+                title: 'conciergeTitle',
+                subtitle: 'conciergeSubtitle',
+                paragraph1Keyword: 'conciergeParagraph1',
+                paragraph2Keyword: 'conciergeParagraph2'
             }
         ];
+        this.skills = [
+            {
+                id: 'Java',
+                mainImage: 'assets/img/skills/java/java-1.svg',
+                link: 'https://www.java.com/en/'
+            },
+            {
+                id: 'Spring',
+                mainImage: 'assets/img/skills/spring/spring-boot-1.svg',
+                link: 'https://spring.io/'
+            },
+            {
+                id: 'Angular',
+                mainImage: 'assets/img/skills/angular/angular-1.svg',
+                link: 'https://angular.io/'
+            },
+            {
+                id: 'JavaScript',
+                mainImage: 'assets/img/skills/javascript/javascript-1.svg',
+                link: 'https://www.javascript.com/'
+            },
+            {
+                id: 'typescript',
+                mainImage: 'assets/img/skills/typescript/typescript.svg',
+                link: 'https://www.typescriptlang.org/'
+            },
+            {
+                id: 'Git',
+                mainImage: 'assets/img/skills/git/git-1.svg',
+                link: 'https://git-scm.com/'
+            },
+            {
+                id: 'PostgreSQL',
+                mainImage: 'assets/img/skills/postgresql/postgresql-1.svg',
+                link: 'https://www.postgresql.org/'
+            },
+            {
+                id: 'C#',
+                mainImage: 'assets/img/skills/c-sharp/c-sharp-1.svg',
+                link: 'https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/'
+            },
+            {
+                id: 'IntelliJ IDEA',
+                mainImage: 'assets/img/skills/tools/intellij-idea.svg',
+                link: 'https://www.jetbrains.com/idea/'
+            },
+            {
+                id: 'IntelliJ Webstorm',
+                mainImage: 'assets/img/skills/tools/webstorm.svg',
+                link: 'https://www.jetbrains.com/webstorm/'
+            },
+            {
+                id: 'Visual Studio',
+                mainImage: 'assets/img/skills/tools/visual-studio.svg',
+                link: 'https://visualstudio.microsoft.com/'
+            },
+            {
+                id: 'Wordpress',
+                mainImage: 'assets/img/skills/wordpress/wordpress.svg',
+                link: 'https://wordpress.com/'
+            },
+        ];
     }
-    getWorkViaId(workId) {
-        return this.works.find(work => work.id === workId);
+    getProjectViaId(projectId) {
+        return this.projects.find(work => work.id === projectId);
     }
-    getWorks() {
-        return this.works;
+    getProjects() {
+        return this.projects;
+    }
+    getSkills() {
+        return this.skills;
     }
 }
-WorkService.ɵfac = function WorkService_Factory(t) { return new (t || WorkService)(); };
-WorkService.ɵprov = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineInjectable"]({ token: WorkService, factory: WorkService.ɵfac, providedIn: 'root' });
-/*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](WorkService, [{
+ProjectSkillService.ɵfac = function ProjectSkillService_Factory(t) { return new (t || ProjectSkillService)(); };
+ProjectSkillService.ɵprov = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineInjectable"]({ token: ProjectSkillService, factory: ProjectSkillService.ɵfac, providedIn: 'root' });
+/*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](ProjectSkillService, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Injectable"],
         args: [{
                 providedIn: 'root'
