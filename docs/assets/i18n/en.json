@@ -3,8 +3,8 @@
   "myServices": "My Services",
   "aboutMe": "About me",
   "workNSkills": "My Work and Skills",
-  "helloText": "Hi, I am ",
-  "myEducation": "My Education",
+  "helloText": "Hi! I am ",
+  "myEducation": "My Timeline",
 
   "subtitle1": "Software Developer",
   "subtitle2": "Tech Enthusiast",
@@ -12,17 +12,17 @@
 
   "whatIDo": "I...",
   "service1Title": "...develop Software",
-  "service1Paragraph": "I am a Software Developer which has a passion for code and 5 years of University to back my knowledge up. In my 3 years of Bachelor and 2 years of Master I have implemented many different projects in many different technologies. I ended up loving <b>Java</b> and <b>Angular</b> to work on my professional projects.",
+  "service1Paragraph": "I am a Software Developer which has a passion for code and my 5 years of studies back my knowledge up. Even though I have majored a Msc. in Computer Science, I have learnt more through external projects and \"Trial & Error\". I have implemented many different projects in many different technologies. <b>Java</b> and <b>Angular</b> ended having a very special place in my heart.",
   "service2Title": "...take care of your back-end",
   "service2Paragraph": "With a love for clean and robust code, I am able to create efficient and optimized back-end solutions with some of the most renowned technologies of our time. I am very confident in adapting and changing the technology as required by the project. But still the first love, <b>Spring</b>, cannot be forgotten.",
   "service3Title": "...make your front-end flourish",
-  "service3Paragraph": "Being a full-stack developer has sharpened my front-end skills too. I have written my first <b>JavaScript</b> line of code back in 2015 and switched over to <b>TypeScript</b> since I find it more structured. Angular is also one of the reasons for choosing typescript.",
+  "service3Paragraph": "A good back-end without its front-end counter part is not that useful is it? Improving the end-user experience and making the application flow more efficiently is one of my main goals when handling a front-end solution. This includes UI and UX.",
 
   "aboutMeTitle": "Who am I",
   "aboutMeSubtitle": "a Swiss Army Knife in terms of software",
-  "aboutMeParagraph1": "I grew up loving technology, so it’s a privilege to be working and studying in my dream industry! My academic background includes a Computer Science Bachelors from the University of Tirana. I’m originally from Albania, a small country, but with amazing potential!. Soon after, I moved to Germany full-time and started my Master’s in the Frankfurt University of Applied Sciences for High Integrity Systems. And the rest is history...or is it?!",
+  "aboutMeParagraph1": "I have always loved technology, that is why it is a privilege form me to develop and work on this branch. I came to Germany just 2 years ago and was highly interested on the diversity of projects that this country offers. I finished my Master's on \"High Integrity Systems\" in 2022 and since then I am a Freelancer. I am interested on new and interesting projects. If you have something for me, feel free to contact me.",
   "aboutMeSubtitle2": "What am I doing at the moment?",
-  "aboutMeParagraph2": "<ul> <li>Constantly sharpening my coding and keeping up with the Tech. </li> <li>Improving my German skills \uD83C\uDDE9\uD83C\uDDEA </li> <li>Working as a software developer at Kaera, an independent broker for industry and tourism in the European market.</li> <li>If there’s time to breathe, I occasionally work as a freelancer to build websites visitors actually enjoy browsing through!</li> </ul>",
+  "aboutMeParagraph2": "<ul> <li>Constantly sharpening my coding skills through Projects and keeping up with the new technology trends. </li> <li>Improving my German skills \uD83C\uDDE9\uD83C\uDDEA </li> <li>Building Internet of things devices</li> <li>Lesen \uD83D\uDCDA</li> <li>Installing Camera Surveillance systems</li> <li>Training \uD83E\uDD4A</li> </ul>",
 
 
   "timeline1": "I was born in Albania to two wonderful parents.",
@@ -30,8 +30,9 @@
   "timeline3": "I broke my first computer... ",
   "timeline4": "I started fixing Software and Hardware problems for half of the neighbourhood.",
   "timeline5": "Won second place on Middle School nation-wide Computer Science Contest.",
-  "timeline6": "<h4>Finished Bachelor on Computer Science/Informatics</h4><p>Even though I could code before starting my studies, the three years of my Bachelor Studies deepened my knowledge on several areas through the use of projects and live coding exercises. During these studies I managed to gain knowledge on the following subjects: <ul><li>Algorithms and Performance Optimizations</li><li>Database management and Query Optimizations</li><li>Java programming (SE & EE)</li><li>Vanilla Web Development (HTML, CSS & JavaScript)</li><li>C & C++ programming</li><li>Vanilla PHP programming</li><li>Networking basics & packet tracking tools</li><li>Best coding practices and different metholodies (SCRUM, Agile dev., etc)</li></ul></p>",
-  "timeline7": "<h4>Move to Germany and begin my Studies on High Integrity Systems.</h4><p>Specialization on Safety Critical Systems, helped me to get a better insight on building high quality and fault tolerant software. Since building of these systems requires a lot more analysis than your normal web service, I gained a completely different mindset to structuring and validating/verifying high quality software. Also changing my environment from Albania to Germany helped broaden my horizon and get to know many different cultures. The strong points that I were able to obtain through my Master's are the following:</p><ul><li>Data Analysis</li><li>Data Mining</li><li>Modern Advanced IT Security methods</li><li>Real-Time systems management</li><li>Transaction Management - to completely conclude DBMS</li><li>Quantum Information Science & Programming with IBM's QisKit</li><li>Testing methods (applied in Python)</li><li>Human Machine Interaction (concluded with a project in Node.js and vanilla js)</li><li>Simulation Methods (Applied through MATLAB & SimuLink)</li><li>Internet of Things</li><li>Cloud Computing and the technologies behind it (AWS, Azure etc)</li><li>Homomorphic Encryption 10 Credit Project with Microsoft SEAL</li></ul><p>Currently working on my Master's Thesis on <strong>Authentication and Authorization of Microservices.</strong></p>",
+  "timeline6": "<h4>Bachelor of Computer Science/Informatics</h4><p>Even though I could code before starting my studies, the three years of my Bachelor Studies deepened my knowledge on several areas through the use of projects and programming contests. My Bachelor expanded my knowledge on several areas, for example: <ul><li>Algorithms and Performance Optimizations</li><li>Database management and Query Optimizations</li><li>Concepts from several different Programming languages</li><li>Web Development</li><li>Networking and transport protocolls</li></ul></p>",
+  "timeline7": "Relocate to Frankfurt Germany",
+  "timeline8": "<h4>Master of Science on \"High Integrity Systems\"</h4><p>Strong point of the study were Safety Critical Systems. Such systems require more specialization since human lives and business futures can be at stake. Building high quality software became natural through the many projects that this study course provided. Here is a list of the most relevant courses:</p><ul><li>Data Analysis & Mining</li><li>Advanced IT Security</li><li>Quantum Information Science & Quantum Programming</li><<li>Simulation Methods</li><li>Internet of Things</li><li>Cloud Computing</li><li>Homomorphic Encryption</li></ul><p>Master's Thesis was a hands-on project related to <strong>Authentication and Authorization of Microservices.</strong>. The thesis included Mutual TLS, Microservices in C++ and the further implementation of an already existing Simulation Software.</p>",
 
 
   "skillsNToolsTitle": "My skills and tools",

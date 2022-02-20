@@ -2,10 +2,45 @@
   "home": "Home",
   "myServices": "Meine Dienste",
   "aboutMe": "Über mich",
-  "myWork": "Meine Fähigkeiten und Arbeit",
+  "workNSkills": "Meine Arbeit und Fähigkeiten",
   "helloText": "Hallo! Ich heiße ",
+  "myEducation": "Meine Zeitleine",
 
   "subtitle1": "Software Enwickler",
   "subtitle2": "Technik-Enthusiast",
-  "subtitle3": "Boxer"
+  "subtitle3": "Boxer",
+
+  "whatIDo": "Ich...",
+  "service1Title": "...entwickle Ihre Software",
+  "service1Paragraph": "Ich bin ein Software Entwickler der ein Leidenschaft für das Code hat und meine 5 Studienjahre unterstützen meine Kentnisse. Obwohl ich meine Bachelor und Master abgeschlossen habe, ich habe mehr durch externe Projekte und \"Versuch & Irrtum\" gelernt. Mehrere Projekte mit mehrere Technologies wurden von mir entwickelt. Schließlich <b>Java</b> und <b>Angular</b> fanden einen ganz besonderen Platz in meinem Herzen.",
+  "service2Title": "...kümmere mich um Ihre Back-End",
+  "service2Paragraph": "Mit einer Liebe für sauberen und robusten Code, bin ich fähig effiziente und optimisierte Back-End Lösungen mit den berühmsten Technologien unserer Zeit zu erstellen. Ich bin sehr zuversichtlich, die Technologien so anzupassen und ändern, wie es das Projekt erfordert. Aber dennoch, meine erste Liebe, <b>Spring</b>, kann nicht vergessen werden.",
+  "service3Title": "...kümmere mich um Ihre Front-End",
+  "service3Paragraph": "Ein gutes Back-End ohne sein Front-End-Gegenstück ist nicht so nützlich, oder? Meine größte Ziele wenn es um Front-End Lösungen geht, sind das Endnutzererlebnis und ein effiziente Applikation-Flow. Das beinhaltet UI und UX.",
+
+  "aboutMeTitle": "Wer bin ich",
+  "aboutMeSubtitle": "Not your average Developer",
+  "aboutMeParagraph1": "Ich habe Technologie immer geliebt, deswegen ist es ein Privileg in dieser Branche zu arbeiten und entwicklen. Ich bin erst vor 2 Jahren nach Deutschland gekommen und wollte vor allem die hier gebotene Projektvielfalt nutzen. Ich habe meinen Master in \"High Integrity Systems\" im Jahr 2022 abgeschlossen und seitdem bin ich ein Freiberufler. Ich interessiere mich für neue und interessante Projekte. Wenn Sie was für mich haben, zögern Sie nicht, mich zu kontaktieren.",
+  "aboutMeSubtitle2": "Was mache ich gerade?",
+  "aboutMeParagraph2": "<ul> <li>Mein Coding ständig mit Projekte verbessern und den neuen Technologietrends Schritt halten </li> <li>Meine Deutschkentnisse verbessern \uD83C\uDDE9\uD83C\uDDEA </li> <li>Internet of Things Geräte bauen</li> <li>Lesen \uD83D\uDCDA</li> <li>Kameraüberwachungssysteme installieren</li> <li>Training \uD83E\uDD4A</li> </ul>",
+
+
+  "timeline1": "Geboren in Albanien als Sohn zweier wunderbare Eltern.",
+  "timeline2": "Mein Vater kauft mir mein den ersten Computer",
+  "timeline3": "Ich habe meinen ersten Computer kaputt gemacht... ",
+  "timeline4": "Ich fange an, Software und Hardware Probleme für die Hälfte meiner Nachbarschaft zu beheben.",
+  "timeline5": "Ich habe den zweiten Platz bei einem bundesweiten Informatikwettbewerb gewonnen",
+  "timeline6": "<h4>Bachelor der Informatik</h4><p> Obwohl ich programmieren konnte bevor ich studiert habe, hat mein Bachelor meine Kentnisse weiter entwickelt und eigene Lücke gefüllt. Ich habe viel durch Projekte und Programmiererwettbewerbe gelernt. Der Bachelor hat meine Wissen in mehrere Bereiche erweitert, wie zum Beispiel: <ul><li>Algorithmen</li><li>Datenbankverwaltung und Optimisierung</li><li>Konzepten von mehrere Programmierungssprachen</li><li>Web Entwicklung</li><li>Netzwerke und Transportprotokolle</li></ul></p>",
+  "timeline7": "Umzug nach Deutschland",
+  "timeline8": "<h4>Master of Science der \"High Integrity Systems\"</h4><p> Schwetpunkt meines Studiums waren Hochintegrierte Systeme. Solche Systemen erfordern eine stärkere Spezialisierung, da Menschenleben und die Zukunft von Unternehmen auf dem Spiel stehen können. Deswegen in allen implementierten Projekten wurde hochwertige Software erfordert und geprüft. Hier ist eine Liste mit der relevantesten Studiengänge:</p><ul><li>Datenanalyse und Data mining</li><li>Moderne erweiterte IT-Sicherheitsmethoden</li><li>Quantum Information Science</li><li>Simulationsmethoden</li><li>Internet of Things</li><li>Cloud Computing</li><li>Homomorphic Encryption </li></ul><p>Die Diplomaarbeit war ein praktisches Projekt im Zusammenhang mit <strong>Authentifizierung und Autorisierung von Microservices.</strong>. Die Arbeit umfasste Mutual TLS, Microservices in C++ und die weiter Implementierung einer bereits bestehenden Simulationssoftware.",
+
+
+
+
+  "skillsNToolsTitle": "Meine Fähigkeiten und Werkzeuge",
+  "skillsNToolsSubtitle": "Eine Liste der Tools und Programmiersprachen/Frameworks, die ich am häufigsten verwende.",
+
+
+  "workTitle": "Meine Projekte",
+  "workSubtitle": "Einige Projekte, die es wert sind, geteilt zu werden."
 }

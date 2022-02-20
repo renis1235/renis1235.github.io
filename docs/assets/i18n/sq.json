@@ -1,0 +1,51 @@
+{
+  "home": "Home",
+  "myServices": "Shërbimet e mia",
+  "aboutMe": "Rreth meje",
+  "workNSkills": "Puna dhe aftësite e mia",
+  "helloText": "Çkemi! Unë jam ",
+  "myEducation": "Timeline",
+
+  "subtitle1": "Zhvillues Software",
+  "subtitle2": "Entuziast Teknologjie",
+  "subtitle3": "Boksier",
+
+  "whatIDo": "Unë...",
+  "service1Title": "...krijoj Software",
+  "service1Paragraph": "Unë jam nje zhvillues Software i cili ka nje pasion per kodimin dhe 5 vitet e mia te studimit i suportojnë dijet e mia. Kam studiuar nje Master shkencor ne Informatik, por kam mesuar më shumë prej projekteve te jashtme dhe \"Provo & Gabo\". Kam implementuar projekte të ndryshme në gjuhë të ndryshme. Por si perfundim <b>Java</b> dhe <b>Angular</b> gjetën një vend të veçantë në zemrën time.",
+  "service2Title": "...menaxhoj Back-endin tuaj",
+  "service2Paragraph": "Me nje preferencë për kod të pastër dhe robust, un jam në gjëndje te krijoj programe back-endi me disa nga teknologjitë me te njohura te kohës tonë. Unë jam gjithashtu shumë konfident ne pershtatjen dhe ndryshimin e teknologjisë, ashtu sic e kërkon projekti. Gjithsesi dashuria e parë, <b>Spring</b>, nuk mund të harrohet.",
+  "service3Title": "...menaxhoj Front-endin tuaj",
+  "service3Paragraph": "Një back-end i mirë pa front-end nuk esht dhe aq i dobishëem apo jo? Një nga qëllimet e mia kryesore është që eksperienca e përdoruersit dhe rrjedha e aplikacionit te jetë sa me eficiente dhe e këndshme. Kjo përfshin UI dhe UX.",
+
+  "aboutMeTitle": "Kush jam unë",
+  "aboutMeSubtitle": "Not your average Developer",
+  "aboutMeParagraph1": "Teknologjia ka qënë gjithmonë nje pjesë e rëndësishme e jetes time, dhe kjo është nje nga arsyet pse unë e quaj privilegj te punoj ne këtë degë. Unë erdha në Gjermani vetëm dy vite më parë sepse diversiteti i projekteve që ky shtet ofron ishte tejet interesant. Masteri im ne \"High Integrity Systems\" u përfundua ne 2022 dhe që prej atëherë un jam nje Freelancer. Jam i interesuar në projekte të reja dhe interesante. N.q.s ju keni dicka për mua, ju lutem më kontaktoni.",
+  "aboutMeSubtitle2": "Çfarë po bej tani?",
+  "aboutMeParagraph2": "<ul> <li>Jam duke rafinuar vazhdimisht aftësitë e mia të kodimit, dhe lexoj në mënyrë konstante per trendet e reja të teknologjisë. </li> <li>Duke përmirësuar Gjermanishten time \uD83C\uDDE9\uD83C\uDDEA </li> <li>Duke ndërtuar pajisje të Internet of Things</li> <li>Duke lexuar \uD83D\uDCDA</li> <li>Duke instaluar pajisje dhe kamera syrvejimi</li> <li>Duke u stërvitur \uD83E\uDD4A</li> </ul>",
+
+
+  "timeline1": "Lind në Shqipëri tek dy prindër të mrekullueshëm.",
+  "timeline2": "Babai im më bleu kompjuterin tim të parë",
+  "timeline3": "Un prisha kompjuterin tim të parë... ",
+  "timeline4": "Fillova të rregulloj probleme të Software dhe Hardware për gjymën e lagjes.",
+  "timeline5": "Fitues i çmimit të dyte ne nje konkurs informatike në të gjithë shtetin.",
+  "timeline6": "<h4>Bachelor në Informatikë</h4><p>Edhe pse unë mund të programoja përpara universitetit, tre vitet e Bachelorit më thelluan njohuritë në disa degë, nëpermjetë projekteve dhe konkurseve të programimit. Disa nga degët ku Bachelori me ndihmoi janë: <ul><li>Algoritme dhe optimizime të performancës</li><li>Menaxhim Databaze</li><li>Koncepte nga disa gjuhë programimi</li><li>Zhvillim në ëeb</li><li>Rrjete dhe protokolle transporti</li></ul></p>",
+  "timeline7": "Zhvendosem në Frankfurt, Gjermani",
+  "timeline8": "<h4>Master shkencorë në \"High Integrity Systems\"</h4><p>Fokusi i studimeve ishin sistemet me rrezikshmëri të lartë. Këto sisteme kërkojnë më shumë specializim sepse në rrezik mund të jenë jetë njerëzore dhe të ardhme biznesi. Këto janë disa nga kurset më të rëndësishme:</p><ul><li>Data Analysis & Mining</li><li>Siguri e avancuar IT</li><li>Shkenca Quantum të informacionit dhe programim në Quantum</li><li>Simulation</li><li>Internet of Things</li><li>Cloud Computing</li><li>Homomorphic Encryption</li></ul><p>Teza e diplomes pershin nje projekt që ka të bëj me sigurinë e nje aplikacioni ekzistues. Autorizimi dhe autentifikimi i mikroserviceve nëpermjet mutual TLS u implementua dhe pëergjat kohës së projektit u përdor C++.</p>",
+
+
+  "skillsNToolsTitle": "Aftësitë dhe mjetet e punës",
+  "skillsNToolsSubtitle": "Një listë e frameworkeve dhe gjuhëve më të përdorura prej meje",
+
+
+  "workTitle": "Projektet e mia",
+  "workSubtitle": "Krenaria ime, disa nga projektet që ja vlen të ndahen me ju.",
+
+
+  "conciergeTitle": "Concierge",
+  "conciergeSubtitle": "Estate Management Web-App",
+  "conciergeParagraph1": "One of the biggest Projects that I have developed. This project required full-stack skills where I coded front-end and back-end at the same time. There was a challenge to completely separate the concerns through microservices which was successfully surpassed.",
+  "conciergeParagraph2": "The Technology stack used: <strong>Spring Boot</strong> & <strong>Angular</strong>"
+
+}
